@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Art Shllaku
+# Hi there 👋
+
+## I'm Art Shllaku
 
 🎯 **QA Automation Engineer | Frontend Dev Enthusiast | Remote Worker Worldwide**
 
@@ -14,16 +16,15 @@ I'm a passionate QA Automation Engineer with a background in frontend developmen
 - **Frameworks:** Playwright, Cypress, Selenium, RTL, React.js
 - **CI/CD:** GitHub Actions (custom actions, reusable workflows)
 - **Testing Expertise:** End-to-end testing, mocking strategies, test automation architecture, code quality
-- **Frontend:** Figma-to-React component translation, reusable UI development
 
 ---
 
 ### 💡 Experience Highlights
 
-- 🚀 Successfully migrated ~2000 E2E tests from Cypress to Playwright, reducing flakes and improving test reliability
+- 🚀 Migrated ~2000 E2E tests from Cypress to Playwright, along with other lower-level tests to more suitable tools, reducing flakes and improving reliability
 - 🧠 Designed and implemented reusable GitHub Actions to streamline CI/CD workflows
-- 🧪 Led end-to-end testing efforts including mocking APIs and eliminating flakiness in large codebases
-- 📘 Authored documentation and guidelines for Playwright and Cypress testing best practices
+- 🧪 Led end-to-end testing efforts including mocking APIs and eliminating flakiness in large codebase
+- 📘 Wrote internal documentation and best practices for using Playwright
 - 🧩 Built and maintained UI components based on Figma designs in React projects
 
 ---
