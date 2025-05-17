@@ -6,7 +6,7 @@
 
 I'm a passionate QA Automation Engineer with a background in frontend development and hands-on experience in both manual and automated testing. I’ve worked with teams across the globe, helping build reliable, scalable, and efficient test infrastructures using modern tools and best practices.
 
-🧠 _Fun fact: I might be slightly addicted to the gym - testing code by day, lifting weights by night._
+🧠 _Fun fact: I might be addicted to the gym - testing code by day, lifting weights by night._
 
 ---
 
