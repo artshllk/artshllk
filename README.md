@@ -38,19 +38,6 @@ Read them here: [e2e-testing-hub](https://artshllk.github.io/e2e-testing-hub/)
 
 ---
 
-### 📚 Education
-
-**Bachelor of Computer Science**  
-UBT - University for Business and Technology, Kosovo
-
----
-
-### 🌍 Remote Collaboration
-
-Based in Pristina, Kosovo — experienced in working remotely with engineering teams across different time zones and cultures.
-
----
-
 ### 🔎 Always Learning
 
 I enjoy exploring new tools, writing clean and maintainable test code, and contributing to projects where quality and automation matter. Always open to exciting frontend or automation opportunities.
