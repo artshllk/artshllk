@@ -19,16 +19,6 @@ I'm a passionate QA Automation Engineer with a background in frontend developmen
 
 ---
 
-### 💡 Experience Highlights
-
-- 🚀 Migrated ~2000 E2E tests from Cypress to Playwright, along with other lower-level tests to more suitable tools, reducing flakes and improving reliability
-- 🧠 Designed and implemented reusable GitHub Actions to streamline CI/CD workflows
-- 🧪 Led end-to-end testing efforts including mocking APIs and eliminating flakiness in large codebase
-- 📘 Wrote internal documentation and best practices for using Playwright
-- 🧩 Built and maintained UI components based on Figma designs in React projects
-
----
-
 ### ✍️ Articles & Writing
 
 I actively share knowledge and lessons learned through blog posts and articles focused on real-world testing challenges:
@@ -47,7 +37,7 @@ I enjoy exploring new tools, writing clean and maintainable test code, and contr
 
 ---
 
-### 🔗 Links
+### 📬 Where to Reach Me
 
 - 🌐 Portfolio: [artshllaku.com](https://www.artshllaku.com/)
 - 📧 Email: artshllaku48@gmail.com
