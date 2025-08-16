@@ -1,47 +1,39 @@
-# Hi there 👋
+# Hi there 👋  
+I'm **Art Shllaku**  
 
-## I'm Art Shllaku
+🎯 QA Automation Engineer | Frontend Developer  
 
-🎯 **QA Automation Engineer | Frontend Dev Enthusiast | Remote Worker Worldwide**
+I work in **manual and automation testing** with a strong focus on **Playwright**, **Cypress**, and **end-to-end testing strategies**. I also have frontend development experience, mainly with **React.js**, which helps me bridge the gap between testing and development.  
 
-I'm a passionate QA Automation Engineer with a background in frontend development and hands-on experience in both manual and automated testing. I’ve worked with teams across the globe, helping build reliable, scalable, and efficient test infrastructures using modern tools and best practices.
-
-🧠 _Fun fact: I might be addicted to the gym - testing code by day, lifting weights by night._
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** Playwright, Cypress, Selenium, RTL, React.js
-- **CI/CD:** GitHub Actions (custom actions, reusable workflows)
-- **Testing Expertise:** End-to-end testing, mocking strategies, test automation architecture, code quality
+I’ve collaborated with teams worldwide to build **scalable test automation frameworks** and improve **code quality** through clean, reliable, and maintainable tests.  
 
 ---
 
-### ✍️ Articles & Writing
-
-I actively share knowledge and lessons learned through blog posts and articles focused on real-world testing challenges:
-
-- 📖 _Cypress vs Playwright: Pros and Cons_
-- 💧 _WET vs DRY Testing Approaches_
-- ✅ _Best Practices for End-to-End Test Automation_
-
-Read them here: [e2e-testing-hub](https://artshllk.github.io/e2e-testing-hub/)
+## 🔧 Tech Stack
+- **Languages**: JavaScript, TypeScript  
+- **Testing**: Playwright, Cypress, Selenium, React Testing Library  
+- **Frontend**: React.js  
+- **CI/CD**: GitHub Actions (custom actions, reusable workflows)  
+- **Expertise**: Manual testing, E2E automation, mocking strategies, test architecture  
 
 ---
 
-### 🔎 Always Learning
-
-I enjoy exploring new tools, writing clean and maintainable test code, and contributing to projects where quality and automation matter. Always open to exciting frontend or automation opportunities.
-
----
-
-### 📬 Where to Reach Me
-
-- 🌐 Portfolio: [artshllaku.com](https://www.artshllaku.com/)
-- 📧 Email: artshllaku48@gmail.com
+## ✍️ Articles & Notes
+I write about testing and automation to share real-world lessons:  
+- Cypress vs Playwright: Pros and Cons  
+- WET vs DRY in Testing  
+- Best Practices for End-to-End Automation  
+➡️ Read here: **[e2e-testing-hub](#)**  
 
 ---
 
-_Thanks for stopping by! Feel free to explore my repositories or get in touch 🚀_
+## 📚 Always Learning
+Focused on writing clean code, learning new tools, and contributing to projects where **quality and automation matter**. Open to both **automation** and **frontend opportunities**.  
+
+---
+
+## 📬 Contact
+- 🌐 Portfolio: [artshllaku.com](https://artshllaku.com)  
+- 📧 Email: artshllaku48@gmail.com  
+
+🚀 Thanks for visiting — feel free to explore my repositories or reach out!
