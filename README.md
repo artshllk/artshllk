@@ -23,7 +23,7 @@ I write about testing and automation to share real-world lessons:
 - Cypress vs Playwright: Pros and Cons  
 - WET vs DRY in Testing  
 - Best Practices for End-to-End Automation  
-➡️ Read here: **[e2e-testing-hub](#)**  
+➡️ Read here: **[e2e-testing-hub](https://artshllk.github.io/e2e-testing-hub/)**  
 
 ---
 
