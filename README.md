@@ -11,9 +11,9 @@ I’ve collaborated with teams worldwide to build **scalable test automation fra
 
 ## 🔧 Tech Stack
 - **Languages**: JavaScript, TypeScript  
-- **Testing**: Playwright, Cypress, Selenium, React Testing Library  
-- **Frontend**: React.js  
-- **CI/CD**: GitHub Actions (custom actions, reusable workflows)  
+- **Testing**: Playwright, Cypress, Selenium, RTL  
+- **Frontend**: React/Next.js
+- **CI/CD**: GitHub Actions, Azure DevOps
 - **Expertise**: Manual testing, E2E automation, mocking strategies, test architecture  
 
 ---
@@ -36,4 +36,4 @@ Focused on writing clean code, learning new tools, and contributing to projects 
 - 🌐 Portfolio: [artshllaku.com](https://artshllaku.com)  
 - 📧 Email: artshllaku48@gmail.com  
 
-🚀 Thanks for visiting — feel free to explore my repositories or reach out!
+🚀 Thanks for visiting — feel free to reach out!
