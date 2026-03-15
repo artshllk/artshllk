@@ -1,39 +1,43 @@
-# Hi there 👋  
-I'm **Art Shllaku**  
+# Hey, I'm Art 👋
 
-🎯 QA Automation Engineer | Frontend Developer  
+QA Automation Engineer who writes code that tests code.
 
-I work in **manual and automation testing** with a strong focus on **Playwright**, **Cypress**, and **end-to-end testing strategies**. I also have frontend development experience, mainly with **React.js**, which helps me bridge the gap between testing and development.  
+I've spent the last 4+ years breaking (and fixing) things across SaaS, clinic software, e-commerce, and fintech. I migrated 2000 Cypress tests to Playwright once. It was fun. Sort of.
 
-I’ve collaborated with teams worldwide to build **scalable test automation frameworks** and improve **code quality** through clean, reliable, and maintainable tests.  
+## What I do
 
----
+- **Break things professionally** — Playwright, Cypress, Selenium, Postman
+- **Build things too** — React, Next.js, TypeScript
+- **Automate everything** — GitHub Actions, Azure DevOps, Bitbucket Pipelines
+- **Complain about flaky tests** — then actually fix them
 
-## 🔧 Tech Stack
-- **Languages**: JavaScript, TypeScript  
-- **Testing**: Playwright, Cypress, Selenium, RTL  
-- **Frontend**: React/Next.js
-- **CI/CD**: GitHub Actions, Azure DevOps
-- **Expertise**: Manual testing, E2E automation, mocking strategies, test architecture  
+## Career highlights (the short version)
 
----
+- Migrated 2000+ E2E tests from Cypress to Playwright, cut flakes by 15%
+- Set up Playwright from scratch for a US enterprise client
+- Led a QA team of 3 and owned an entire E2E testing module
+- Started as a frontend dev, then realized I enjoy breaking things more than building them
 
-## ✍️ Articles & Notes
-I write about testing and automation to share real-world lessons:  
-- Cypress vs Playwright: Pros and Cons  
-- WET vs DRY in Testing  
-- Best Practices for End-to-End Automation  
-➡️ Read here: **[e2e-testing-hub](https://artshllk.github.io/e2e-testing-hub/)**  
+## Tech
 
----
+- Testing:    Playwright · Cypress · Selenium · Jest · Postman
+- Frontend:   React · Next.js · TypeScript · JavaScript
+- CI/CD:      GitHub Actions · Azure DevOps · Bitbucket Pipelines
+- Other:      API Testing · SQL · Manual QA · Test Architecture
 
-## 📚 Always Learning
-Focused on writing clean code, learning new tools, and contributing to projects where **quality and automation matter**. Open to both **automation** and **frontend opportunities**.  
+## Writing
 
----
+I write about testing and automation when I have opinions (often):
+- Cypress vs Playwright: Pros and Cons
+- WET vs DRY in Testing
+- Best Practices for End-to-End Automation
 
-## 📬 Contact
-- 🌐 Portfolio: [artshllaku.com](https://artshllaku.com)  
-- 📧 Email: artshllaku48@gmail.com  
+➡️ [e2e-testing-hub](https://artshllk.github.io/e2e-testing-hub/)
 
-🚀 Thanks for visiting — feel free to reach out!
+## Get in touch
+
+- 🌐 [artshllaku.com](https://artshllaku.com)
+- 📧 artshllaku48@gmail.com
+
+If your tests are flaky, your CI takes forever, you don't have an automation framework yet,
+or you just need someone who actually cares about quality — let's talk.
